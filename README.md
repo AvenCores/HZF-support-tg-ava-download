@@ -17,7 +17,7 @@
   + `Требуется 64 битная система`
   + `Установить Python, при установке выбрать` **`add python to PATH`**
   + `Python recommended 3.10.6:` [**`Download`**](https://www.python.org/)
-  + `Скачать архив и распаковать:` [**`telegram-script.zip`**](https://github.com/mr-mar493/telegram-script/archive/refs/heads/main.zip)
+  + `Скачать архив и распаковать:` [**`telegram-script.zip`**](https://github.com/AvenCores/HZF-support-tg-ava-download/archive/refs/heads/main.zip)
   + `Открыть` **`cmd`** `или` **`powershell`**
   + `Перейти в директорию с файлами бомбера`
   + **`python Install.py`**
@@ -31,5 +31,5 @@ ___
 # 💰Поддержать проект:
 
 + #### **QIWI Кошелёк**
-  + [**`Перевод по никнейму (LEON)`**](https://qiwi.com/n/MRMARDONATE)
   + [**`Перевод по никнейму (HZF)`**](https://qiwi.com/n/AVENCORESDONATE)
+  + [**`Перевод по никнейму (LEON)`**](https://qiwi.com/n/MRMARDONATE)
