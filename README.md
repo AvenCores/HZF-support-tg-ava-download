@@ -9,7 +9,7 @@
   + **`pkg install git`**
   + **`pkg install python -y`**
   + **`git clone https://github.com/AvenCores/HZF-support-tg-ava-download`**
-  + **`cd telegram-script`**
+  + **`cd HZF-support-tg-ava-download`**
   + **`python Install.py`**
   + **`python main.py`**
 
