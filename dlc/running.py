@@ -28,7 +28,7 @@ VK: vk.com/hzforum1
 ====================================
 """)
 
-key = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
+key = 'qwertyuiopasdfghjklzxcvbnm1234567890'
 for n in range(1):
 	b=''
 	for i in range(5):
