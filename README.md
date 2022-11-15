@@ -16,7 +16,7 @@
 + #### **Windows 10/11:**
   + `Требуется 64 битная система`
   + `Установить Python, при установке выбрать` **`add python to PATH`**
-  + `Python recommended 3.10.6:` [**`Download`**](https://www.python.org/)
+  + `Python recommended 3.11.0:` [**`Download`**](https://www.python.org/)
   + `Скачать архив и распаковать:` [**`telegram-script.zip`**](https://github.com/AvenCores/HZF-support-tg-ava-download/archive/refs/heads/main.zip)
   + `Открыть` **`cmd`** `или` **`powershell`**
   + `Перейти в директорию с файлами бомбера`
@@ -24,7 +24,6 @@
   + **`python main.py`**
 
 # Меню
-
 ![image](https://user-images.githubusercontent.com/64781822/189353036-8e10f016-2dbf-4dd4-ac73-bb78459f1c99.png)
 
 ___
